@@ -1,0 +1,20 @@
+"vertexlitGeneric"
+{
+
+	"$baseTexture" "models/290mendel/tmarine/tm_jumppacks"
+
+	"$bumpmap" "models/290mendel/tmarine/tm_jumppacks_n"
+
+
+
+
+	"$phong" "1"
+	"$phongexponenttexture" "models\sm\ultra_high/armor_exp"
+//	"$phongexponent" 30
+	"$phongboost" "10"
+	"$phongfresnelranges"	"[ .3 1 7]"
+	"$PhongAlbedoTint" "1"
+
+
+}
+

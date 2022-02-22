@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/290mendel/tmarine/sm_helmets_eye"
+	"$bumpmap" "dev/flat_normal"
+	"$phong" "1"
+//	"$phongexponenttexture" "models\sm\ultra_high/armor_exp"
+	"$phongexponent" 30
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[.5 3 16]"
+	"$PhongAlbedoTint" "1"
+$selfillum 1
+
+}
