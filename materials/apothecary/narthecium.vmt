@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/290mendel/apmarine/narthecium"
+	"$bumpmap" "models/290mendel/apmarine/narthecium_n"
+	"$phong" "1"
+	"$phongexponenttexture" "models/290mendel/apmarine/narthecium_exp"
+//	"$phongexponent" 30
+	"$phongboost" "7.5"
+	"$phongfresnelranges"	"[.5 1 7]"
+	"$PhongAlbedoTint" "1"
+	"$color2"	"[0.8 0.8  0.8]"
+$detail "models/290mendel/apmarine/narthecium_i"
+$detailscale 1
+$detailblendmode 5
+}
