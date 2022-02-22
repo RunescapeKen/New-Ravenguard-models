@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models/290mendel/ravenguard/oathpaper"
+	"$bumpmap" 		"models/290mendel/ravenguard/oathpaper_n"
+$halflambert 1
+
+$alphatest 1
+"$color2"	"[.7 .7 .7]"
+$ambientocclusion 0
+
+}

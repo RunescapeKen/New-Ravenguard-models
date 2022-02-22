@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/290mendel/ravenguard/chapter_icons"
+	"$bumpmap" "models/290mendel/ravenguard/chapter_icons_n"
+	"$phong" "1"
+	"$phongexponenttexture" "models\sm\ultra_high/armor_exp"
+//	"$phongexponent" 30
+	"$phongboost" "10"
+	"$phongfresnelranges"	"[.5 1 7]"
+	"$PhongAlbedoTint" "1"
+$translucent 1
+	"$color2"	"[.75 .75 .75 ]"
+}

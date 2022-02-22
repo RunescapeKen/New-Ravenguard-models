@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models/290mendel/ravenguard/sm_fabrics"
+	"$bumpmap" 		"models/290mendel/ravenguard/sm_fabrics_n"
+
+
+	"$phongexponent" "6"
+	"$phongexponenttexture"	"models/290mendel/shared/green4"
+	"$phongalbedotint" 1
+	"$phong" "1"
+	"$phongboost"	".4"
+	"$phongfresnelranges"	"[0 1.05 3]"
+$alphatest 1
+$ambientocclusion 0
+$allowalphatocoverage 0
+	"$detail" "models\290mendel\ravenguard\detail_cloth"
+	"$detailscale" "6"
+	"$detailblendfactor" 1
+	"$detailblendmode" 0
+}
