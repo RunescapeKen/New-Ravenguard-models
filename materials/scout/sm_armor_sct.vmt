@@ -1,6 +1,6 @@
 "VertexLitGeneric"
 {
-	"$baseTexture" "models/290mendel/ravenguard/tactical/sm_armor"
+	"$baseTexture" "models/290mendel/ravenguard/sm_armor"
 	"$bumpmap" "models/290mendel/ravenguard/sm_armor_n"
 	"$phong" "1"
 	"$phongexponenttexture" "models\sm\ultra_high/armor_exp"
