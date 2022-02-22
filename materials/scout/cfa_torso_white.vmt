@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/290mendel/scout/cfa_torso_white"
+	"$bumpmap" "models/290mendel/scout/cfa_torso_n"
+
+	"$phong" "1"
+	"$phongexponent" 5
+	"$phongboost" ".2"
+	"$phongfresnelranges"	"[.3 1 7]"
+	"$PhongAlbedoTint" "1"
+//	$halflambert 1
+//	$nocull 1
+}
