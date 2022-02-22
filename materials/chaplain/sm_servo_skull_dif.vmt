@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models/290mendel/chap/sm_servo_skull_dif"
+	"$bumpmap" 		"models/290mendel/chap/sm_servo_skull_n"
+
+
+
+	"$phong" "1"
+	"$phongexponenttexture" "models\sm\ultra_high/armor_exp"
+//	"$phongexponent" 30
+	"$phongboost" "4"
+	"$phongfresnelranges"	"[.5 1 7]"
+	"$PhongAlbedoTint" "1"
+
+
+
+}
